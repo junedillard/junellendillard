@@ -1,8 +1,18 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello! I'm Junellen Dillard - a data-oriented policy advisor, passionate about building equitable, efficient systems. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I currrently serve as a Policy Advisor at the Office of 4th District Supervisor, Supervisor Chaffee, Chair of the Orange County Board of Supervisors.
+
+I am also pursuing a Master's in Data Analytics & Policy at Johns Hopkins University. 
+
+My work spans criminal justice reform, housing access, health equity, and digital governance. 
+
+Outside of work, I freelance in strategic funding and grant writing for mission-driven organizations.
+
+I hope to create projects that combine data analytics with public policy--especially tools that can help change-makers make smarter, more forward-looking decisions using predictive analysis. 
